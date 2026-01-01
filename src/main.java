@@ -14,3 +14,4 @@ Telosys CLI - Command Line Interface
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
+// guard against empty input
